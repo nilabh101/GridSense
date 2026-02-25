@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+fastf1
+pandas
+numpy
+pydantic
+langchain
+langgraph
+openai
+python-dotenv
+duckduckgo-search
+sentence-transformers
+pinecone-client
+networkx
+matplotlib
